@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @haz38
 - 👀 I’m interested in Full Stack Development   
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: harryhng22@gmail.com
 
 <!---
